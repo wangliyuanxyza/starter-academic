@@ -5,7 +5,7 @@ draft: false
 featured: false
 image:
   filename: img_0118.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 ---
 南大数学系
