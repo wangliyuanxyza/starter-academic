@@ -65,6 +65,6 @@ email: "wly@smail.nju.edu.cn"
 highlight_name: false
 ---
 
-I'm a teacher at Nanjing Tech University. Mys research interests include number theory, algebra and analysis.
+I'm a teacher at Nanjing Tech University. My research interests include number theory, algebra and analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
