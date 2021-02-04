@@ -28,12 +28,7 @@ education:
   - course: PhD in Mathematics
     institution: Nanjing University
     year: 2020
-  - course: MEng in Artificial Intelligence
-    institution: Department of Mathematics
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +65,6 @@ email: "wly@smail.nju.edu.cn"
 highlight_name: false
 ---
 
-I'm a teacher at Nanjing Tech University. His research interests include number theory, algebra and analysis.
+I'm a teacher at Nanjing Tech University. Mys research interests include number theory, algebra and analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
